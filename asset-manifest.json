@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-canvas/static/css/main.e6c13ad2.css",
+    "main.js": "/infinite-canvas/static/js/main.3b92639b.js",
+    "index.html": "/infinite-canvas/index.html",
+    "main.e6c13ad2.css.map": "/infinite-canvas/static/css/main.e6c13ad2.css.map",
+    "main.3b92639b.js.map": "/infinite-canvas/static/js/main.3b92639b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b92639b.js"
+  ]
+}
